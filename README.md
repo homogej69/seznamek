@@ -46,7 +46,7 @@
     <h1>Seznam Písní od Autora</h1>
     <ul>
         <a href="https://homogej69.github.io/pis1/"> <li>Píseň 1</li></a>
-        <a href="https://homogej69.github.io/pis1/"> <li>Píseň 2</li></a>
+        <a href="https://homogej69.github.io/pis2/"> <li>Píseň 2</li></a>
         <a href="https://homogej69.github.io/pis1/"> <li>Píseň 3</li></a>
         <a href="https://homogej69.github.io/pis1/"> <li>Píseň 4</li></a>
         <a href="https://homogej69.github.io/pis1/"> <li>Píseň 5</li></a>
