@@ -50,10 +50,5 @@
         <li>Píseň 3</li>
         <li>Píseň 4</li>
         <li>Píseň 5</li>
-        <li>Píseň 6</li>
-        <li>Píseň 7</li>
-        <li>Píseň 8</li>
-        <li>Píseň 9</li>
-        <li>Píseň 10</li>
     </ul>
 </div>
