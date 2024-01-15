@@ -39,8 +39,8 @@
 <body>
 
 <div class="header">
-    <a href="#home">Home</a>
-    <a href="#song-list">Seznam Písniček</a>
+    <a href="https://homogej69.github.io/pisne.github.io/">Home</a>
+    <a href="https://homogej69.github.io/seznamek/">Seznam Písniček</a>
 </div>
 
 <div class="content">
