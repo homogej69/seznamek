@@ -46,7 +46,7 @@
 <div class="content">
     <h1>Seznam Písní od Autora</h1>
     <ul>
-        <a herf="https://homogej69.github.io/pis1/">Píseň 1<br>
+        <li><a herf="https://homogej69.github.io/pis1/">Píseň 1</a></li>
         <li>Píseň 2</li>
         <li>Píseň 3</li>
         <li>Píseň 4</li>
